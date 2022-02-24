@@ -1,10 +1,8 @@
-# Micael - The Ultimate Web Development Portfolio 
-![Micael](https://i.ibb.co/fHPM38q/image.png)
+# Winston JC Mhango - My Programming and Web Development Portfolio 
+
 
 ## Introduction
-This is a code repository for the corresponding video tutorial.
+This is a code repository for winston jc mhango portfolio web site.
 
-Do you know the best way to show your skills to employers or potential clients? Stand out from the crowd by presenting a well-digitalized flexible portfolio and get your dream job.
+This repository is meant for timely up to date skills updates and projects made updated using sanity.io back-end updates.
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmasterypro.com/newsletter
